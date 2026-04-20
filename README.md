@@ -1,19 +1,19 @@
-# ☁️ Hybrid Cloud & Datacenter Modernization migration-architect (2012–2021)
+# ☁️ Hybrid Cloud & Datacenter Modernization (2012–2021)
 
 ### **Strategic Overview**
-As a Lead Consultant at **DXC Technology**, I orchestrated the transformation of legacy enterprise environments into modern hybrid-cloud architectures. This project documents the "Modernization Era," focused on high-stakes datacenter exits and the migration of mission-critical workloads to **Microsoft Azure**.
+This repository documents a 9-year transformation journey from high-density physical infrastructure to cloud-native architecture. As a Lead Consultant at **DXC Technology**, I orchestrated the evolution of legacy environments into modern, hyperconverged, and cloud-integrated systems for global enterprise clients.
 
 ---
 
 ### **🏗️ Core Architectural Pillars**
 
-* **End-to-End Datacenter Exits:** Led the strategic migration of legacy on-premises datacenters to Azure, managing the full lifecycle from discovery to cutover.
-* **Azure IaaS Design:** Architected scalable Azure VM solutions, implementing **Availability Sets, Fault Domains, and Update Domains** to ensure 99.99% uptime.
-* **Large-Scale Expansion Projects:** Directed a global "C-Drive Expansion" initiative for 3,000+ servers, utilizing automation to eliminate downtime.
-* **Migration Orchestration:** SME for **Azure Site Recovery (ASR)** and **Azure Migrate**, handling complex server-to-cloud replications and connectivity.
-* **VMware Lifecycle Management:** Managed the modernization of legacy vSphere environments (5.5/6.0) to 6.7, preparing the foundation for cloud-native readiness.
+* **Hyperconverged Infrastructure (HCI):** Led the 2-year implementation and lifecycle management of **Dell EMC VxRack and VxRail** solutions, transitioning the organization to a software-defined datacenter (SDDC) model.
+* **Global Infrastructure Deployment:** Spearheaded on-site datacenter server infrastructure builds across multiple **USA locations**, managing the end-to-end physical-to-virtual (P2V) migration and hardware provisioning.
+* **Cloud Solutions Architecture:** Promoted to **Architect**, providing end-to-end solutions for migrating legacy on-premises workloads to **Microsoft Azure**.
+* **Datacenter Modernization:** Directed the P2V migration strategy for over 2 years, successfully decommissioning legacy physical hardware and consolidating workloads into high-efficiency virtualized clusters.
+* **Enterprise Azure Design:** Designed Azure IaaS blueprints including **VNet peering, Availability Zones, and ASR (Azure Site Recovery)** for mission-critical North American accounts.
 
 ---
 
 ### **🚀 The "Evolution" Bridge**
-Managing a Datacenter Exit requires a deep understanding of **Dependency Mapping** and **Network Traffic Flow**. These skills are critical for **OpenShift** deployments, where understanding how containers communicate across hybrid environments is the key to a successful architecture.
+Building physical datacenters in the USA and then migrating them to the Cloud gives me a "full-stack" perspective. This experience is vital for **OpenShift** environments, where understanding the underlying physical nodes (HCI) is just as important as managing the virtualized container orchestration layer.
